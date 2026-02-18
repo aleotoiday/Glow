@@ -28,10 +28,6 @@
                             "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot1.jpg"
                         },
                         {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot2.jpg"
-                        },
-                        {
                             "accessibilityText": "Screenshot2",
                             "url": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot3.jpg"
                         },
@@ -150,21 +146,5 @@
             "class": "DepictionStackView",
             "tabname": "Changelog"
         },
-        {
-            "views": [
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "My Patreon",
-                    "action": "https://patreon.com/dayanch96"
-                },
-                {
-                    "class": "DepictionTableButtonView",
-                    "title": "Buy me a coffee",
-                    "action": "https://buymeacoffee.com/dayanch96"
-                }
-            ],
-            "class": "DepictionStackView",
-            "tabname": "Support"
-        }
     ]
 }
